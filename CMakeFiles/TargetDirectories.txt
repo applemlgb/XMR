@@ -1,0 +1,9 @@
+/root/data/xmr-stak/CMakeFiles/install/strip.dir
+/root/data/xmr-stak/CMakeFiles/install/local.dir
+/root/data/xmr-stak/CMakeFiles/install.dir
+/root/data/xmr-stak/CMakeFiles/list_install_components.dir
+/root/data/xmr-stak/CMakeFiles/rebuild_cache.dir
+/root/data/xmr-stak/CMakeFiles/edit_cache.dir
+/root/data/xmr-stak/CMakeFiles/xmr-stak.dir
+/root/data/xmr-stak/CMakeFiles/xmr-stak-backend.dir
+/root/data/xmr-stak/CMakeFiles/xmr-stak-c.dir
